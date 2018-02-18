@@ -1,7 +1,7 @@
-import React from 'react';
-import './index.css';
-import Header from './components/Header';
-import Leaderboard from './components/Leaderboard';
+import React from "react";
+import "./index.css";
+import Header from "./components/Header";
+import Leaderboard from "./components/Leaderboard";
 
 class UserList extends React.Component {
   render() {
